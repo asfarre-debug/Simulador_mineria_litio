@@ -1,1 +1,1 @@
-# Simulador_salar_del_hombre_muerto
+# Simulador_mineria_litio
